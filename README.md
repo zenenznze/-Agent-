@@ -65,3 +65,9 @@
 运行侧维护机械检查，人类侧定义反馈对象与验收边界；本专题不要求人类复制工具实现。
 
 规则路径专题结构检查：运行 `python3 scripts/check-rule-path-handbook.py`；只证明链接与登记，方法效果需案例评审。
+
+## 许可
+
+白皮书文字与案例内容采用 [Creative Commons BY-NC-SA 4.0 国际许可](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。该许可允许非商业性分享和改编，要求署名，并要求改编内容以相同许可共享；商业用途不在本许可授权范围内。详见 [LICENSE](LICENSE)。
+
+此许可仅适用于本白皮书内容，不自动覆盖仓库中的软件脚本；脚本未单独声明许可。
